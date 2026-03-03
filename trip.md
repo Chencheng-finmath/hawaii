@@ -10,9 +10,20 @@
 ### 行程概览
 
 - **出行日期**：2026年2月24日 → 2026年3月1日
-- **目的地**：
+- **目的地**：Oahu（欧胡岛）+ Hawaii Island（大岛）
 - **同行人**：
 - **住宿**：
+    - Oahu：Hyatt Regency Waikiki
+    - 大岛：Courtyard by Marriott King Kamehameha's Kona Beach Hotel
+- **交通方式**：全程租车
+- **租车记录**：
+    - Oahu 小车 3 天：USD 200
+    - 大岛小车 1 天：USD 60
+    - 大岛 Jeep 1 天：USD 110
+    - 大岛小车（异地还车）：USD 60 + USD 50
+- **停车备注**：
+    - Waikiki 可停 Zoo 旁公园停车场（免费）
+    - Kona 酒店可免费停车（75-5659 Likana Ln, Kailua-Kona, HI 96740）
 - **预算**：
 - **重要预订链接**：
     - 
@@ -39,146 +50,145 @@
 
 #### 2/24（周二）｜出发/抵达
 
-- **今日目标**：抵达 HNL 并入住后，直接去 Lanikai Pillbox Trail；下山后视时间去海边看看。
+- **今日目标**：抵达 HNL、入住凯悦并升级房型，完成东海岸自驾和 Lanikai Pillbox Trail，晚上在 Waikiki 吃晚餐。
 - **时间表**：
-    - 13:20 抵达 HNL（Honolulu）
-    - 14:00 乘坐 W line 前往酒店（约 1 小时）
-    - 15:15 到酒店放行李后，直接出发去 Lanikai Pillbox Trail
-    - 16:00（开车）/ 16:45（公交）预计到达 Trail Head
-    - 16:00–16:30 徒步上山（Trail 约半小时；下山更快）
-    - 17:00 后可转去附近 beach 看海/看日落（按体力与时间灵活调整）
+    - 13:30 抵达 HNL（Honolulu）
+    - 15:00 到达凯悦酒店办理入住
+    - 15:10 使用 GOH 券 + USD 20 小费升级到 Diamond Head Ocean View 房
+    - 15:30 去 Musubi Cafe IYASUME 吃饭团
+    - 16:15 沿东部海岸自驾前往 Lanikai Pillbox Trail
+    - 17:15–18:15 Lanikai Pillbox Trail（约 1 小时）
+    - 18:30 从中部开回 Waikiki 酒店
+    - 19:30 Duke's Waikiki 现场取号（walk-in）
+    - 取号等待期间可去附近商场逛街
 - **餐饮**：
-    - 早餐：飞机上/出发前
-    - 午餐：落地后机场或酒店附近简餐
-    - 晚餐：Kailua / Waikiki 一带（看当天返回时间）
+    - 午餐：Musubi Cafe IYASUME（饭团）
+    - 晚餐：Duke's Waikiki（walk-in）
 - **交通**：
-    - 机场 → 酒店：W line（约 1 小时）
-    - 酒店 → Lanikai Pillbox Trail：自驾约 45 分钟；公交约 1.5 小时
-    - Trail 下山 → beach：步行或短程打车（待定）
-- **门票/预订**：
-    - Lanikai Pillbox Trail 门票：无（如有停车费现场确认）
-- **备忘/打包清单**：
-    - [ ]  证件
-    - [ ]  充电器
-    - [ ]  防晒（防晒霜/帽子）
-    - [ ]  徒步鞋 + 水
+    - 全程自驾（Oahu 小车）
+    - Waikiki 停车：Zoo 旁公园停车场（免费）
+- **实际记录**：
+    - 凯悦升级成功：Diamond Head Ocean View
 
 ---
 
 #### 2/25（周三）
 
-- **今日目标**：早上去北岸参加鲨鱼潜水，下午去 Kualoa Ranch 坐 Jurassic Valley Zipline。
+- **今日目标**：东线自然风景 + Kualoa Ranch Zipline + 北岸沿海点位。
 - **时间表**：
-    - 06:00 早上打车从酒店出发去北岸
-    - 07:30 前到达 Shark Encounter（集合/签到）
-    - 08:00–10:00 鲨鱼潜水场次（Oahu Shark Diving）
-    - 11:30 北岸附近午餐
-    - 12:15 从 Shark Encounter 一带乘公交前往 Kualoa Ranch（约 1.5 小时）
-    - 13:45 到达 Kualoa Ranch Zipline check-in 地点（提前 45 分钟）
-    - 14:30–17:30 Kualoa Ranch: Jurassic Valley Zipline Tour（总长约 3 小时）
-    - 19:00 晚间自由安排
+    - 08:00 酒店早餐
+    - 09:00 前往 Ho'omaluhia Botanical Garden（因天气原因 Trail 未开放）
+    - 11:00 前往 Byodo-In Temple 和张学良墓地
+    - 12:00 附近麦当劳用餐（最美麦当劳）
+    - 13:45 到达 Kualoa Ranch Zipline check-in
+    - 约 17:00 结束 Zipline Tour
+    - 17:00 前可先在 Ranch 的 farmer market 买东西（17:00 关门）
+    - 傍晚继续向北开到 Lāʻie Point State Wayside、Shark's Cove
+    - 晚餐 Hale'iwa No7，之后回凯悦泡热水池
 - **餐饮**：
-    - 早餐：出发前简单吃
-    - 午餐：鲨鱼潜水后就近解决
-    - 晚餐：Zipline 结束后（返程路上或 Waikiki）
+    - 早餐：酒店
+    - 午餐：Byodo-In Temple 附近麦当劳
+    - 晚餐：Hale'iwa No7
 - **交通**：
-    - 酒店 → 北岸：早上打车
-    - 北岸（Shark Encounter）→ Kualoa Ranch：公交约 1.5 小时（需在 13:45 前到）
-    - Kualoa Ranch → 酒店：待定
-- **待办**：
-    - [x]  Groupon 购买鲨鱼潜水门票（USD 109 / 人）
-    - [x]  鲨鱼约时间
-    - [x]  确认鲨鱼 08:00 场次；07:30 前到 Shark Encounter
+    - 全程自驾（Oahu 小车）
+- **待办/备注**：
     - Zipline 官网链接：[Kualoa Ranch: Jurassic Valley Zipline Tour](https://www.kualoa.com/tours-and-activities/zipline-tour)
-    - [x]  预订 Kualoa Ranch: Jurassic Valley Zipline Tour（14:30 场次）
+    - Ranch farmer market 17:00 关门，建议先买
 
 ---
 
 #### 2/26（周四）
 
-- **今日目标**：上午冲浪，下午 Diamond Head 徒步，傍晚日落前体验滑翔伞。
+- **今日目标**：Diamond Head 徒步 + Ford Island 周边历史点位 + 滑翔伞 + 冲浪。
 - **时间表**：
-    - 07:00 前到达 Hawaii Parasail Inc（冲浪集合/签到）
-    - 07:00–09:00 Adventures in Paradise Surf Lessons（2 小时）
-    - 12:00 午餐 + 简单休息
-    - 14:00 入场 Diamond Head Crater Summit Trail（下午场）
-    - 14:00–15:30 Diamond Head Trail（1.5 mi，485 ft gain）
-    - 16:30 到达 X-treme Parasail check-in（提前 30 分钟）
-    - 17:00 X-treme Parasail 场次
+    - 09:00 前往 Diamond Head Trail（当日预约时段可提前进）
+    - 09:00–10:30 Diamond Head 往返（约 1.5 小时）
+    - 11:00 去 Ford Island 周边
+    - 无美国 ID 不能自驾进入 Ford Island
+    - 附近 Visitor Center：军舰 Museum（约 USD 30）+ 二战历史纪念馆（免费）
+    - 13:30 去 X-treme Parasail，约 15:00 结束
+    - 15:15 附近简单吃东西
+    - 16:00 Adventures In Paradise Oahu 冲浪（1.5 小时）
+    - 晚上回酒店 club 吃晚餐并休息
 - **餐饮**：
-    - 早餐：活动前简单吃
-    - 午餐：冲浪结束后就近解决
-    - 晚餐：滑翔伞结束后（Waikiki 一带）
+    - 早餐：酒店
+    - 午餐：Ford Island / Parasail 附近
+    - 晚餐：酒店 club
 - **交通**：
-    - 酒店 → 冲浪集合点（Hawaii Parasail Inc）：07:00 前到达
-    - 冲浪点 → Diamond Head Trail Head：待定
-    - Diamond Head → X-treme Parasail：待定
-- **待办**：
-    - [x]  Groupon 购买冲浪课程（USD 260 / 2 人）
-    - [x]  冲浪约时间
-    - [x]  确认冲浪 07:00 场次与签到时间（Hawaii Parasail Inc）
-    - [x]  Diamond Head 门票/预约（10usd/2人）
-    - [x]  X-treme Parasail 官网 vs Groupon 比价并下单（约 USD 100 / 人）
+    - 全程自驾（Oahu 小车）
+- **待办/备注**：
+    - Ford Island 入场限制：无美国 ID 不能自驾进入
 
 ---
 
 #### 2/27（周五）
 
-- **今日目标**：从 Oahu 飞往大岛（Kona），完成入住并调整行程节奏。
+- **今日目标**：早起看鲨鱼，返回 Waikiki 收尾后飞往大岛（Kona），晚上看魔鬼鱼。
 - **时间表**：
-    - 09:00 上午自由活动/收拾行李
-    - 13:30 前往 HNL 机场
-    - 14:30 到达机场并办理值机/安检
+    - 05:30 起床
+    - 06:00 酒店早餐
+    - 07:30 前到 Hawaii Shark Encounters check-in（08:00 场）
+    - 08:00–10:00 鲨鱼行程
+    - 10:30 回酒店收拾行李
+    - 11:30–13:30 Waikiki 逛街
+    - 14:00 出发去 HNL 机场，还 Oahu 租车并办理登机
     - 16:10 搭乘 HA 1128（AS 8244）HNL → KOA
-    - 16:58 抵达 KOA（Kona, Hawaii Island）
-    - 18:00 前往酒店办理入住
+    - 16:58 抵达 KOA（约 17:00）
+    - 17:15 大岛租小车（1 天，USD 60）
+    - 18:00 入住 Courtyard by Marriott King Kamehameha's Kona Beach Hotel
+    - 19:00 晚餐 Fish Hopper Kona
+    - 20:30 看魔鬼鱼（Manta），21:30 结束回酒店
 - **餐饮**：
-    - 早餐：酒店附近
-    - 午餐：去机场前简餐
-    - 晚餐：Kona 入住后就近
+    - 早餐：酒店
+    - 午餐：Waikiki 简餐
+    - 晚餐：Fish Hopper Kona
 - **交通**：
-    - 酒店 → HNL：打车/公交（待定）
-    - KOA → 大岛酒店：租车/打车（待定）
-- **待办**：
-    - [ ]  确认 HA 1128 在线值机时间
-    - [ ]  核对行李额度（岛间航班）
+    - Oahu：自驾到 HNL 机场后还车
+    - 大岛：KOA 落地取车（小车 1 天 USD 60）
+    - 酒店地址：75-5659 Likana Ln, Kailua-Kona, HI 96740（可免费停车）
+- **待办/备注**：
+    - 鲨鱼行程：08:00 场，07:30 check-in
 
 ---
 
 #### 2/28（周六）
 
-- **今日目标**：
+- **今日目标**：换 Jeep 上天文台看日落，完成高海拔路段驾驶。
 - **时间表**：
-    - 09:00
-    - 13:00
-    - 19:00
+    - 11:00 早午餐：Pa'akai Poke
+    - 12:00 去 Walmart 买氧气（不用可退）
+    - 13:00 去机场换 Jeep（USD 110）
+    - 下午开车去天文台（Visitor Center 到山顶约 30 分钟）
+    - 日落后下山
 - **餐饮**：
-    - 早餐：
-    - 午餐：
-    - 晚餐：
+    - 早午餐：Pa'akai Poke
+    - 晚餐：下山后机动安排
 - **交通**：
-- **待办**：
-    - [ ]  
+    - 大岛自驾（Jeep）
+- **待办/备注**：
+    - 四驱手动切 4L 上下山
+    - 下山优先 M2，M3 更快
+    - 发动机转速高时不要从 M3 切到 M2
 
 ---
 
 #### 3/1（周日）｜返程
 
-- **今日目标**：大岛返程，经 Honolulu 转机回 SFO。
+- **今日目标**：大岛南线与火山国家公园后到 Hilo 机场还车，夜间转机回 SFO。
 - **时间表**：
-    - 09:00 白天机动安排（按住宿地点决定）
-    - 18:30 前往 ITO（Hilo）机场
+    - 早上早餐后换回小车（USD 60 + USD 50 异地还车费）
+    - 前往 Punalu'u Beach（黑沙滩）
+    - 前往 Hawai'i Volcanoes National Park
+    - 傍晚在 Hilo Downtown 吃晚餐
+    - 晚上前往 ITO（Hilo）机场还车
     - 21:00 搭乘 HA 1121（AS 8228）ITO → HNL
     - 21:56 抵达 HNL（Honolulu）
     - 23:30 搭乘 UA 214 HNL → SFO
 - **返程提醒**：
-    - [ ]  退房时间
-    - [ ]  注意是去 ITO（Hilo）不是 KOA（Kona）
-    - [ ]  ITO → HNL 到达后确认联程转机时间
-    - [ ]  纪念品/行李称重
-- **待办**：
-    - [ ]  HA 1121 在线值机
-    - [ ]  UA 214 在线值机
+    - ITO 出发前预留还车时间
+    - HNL 中转后接 UA 214 回 SFO
+- **待办/备注**：
+    - 大岛最后一天走 ITO（Hilo）出发，不是 KOA（Kona）
 
 ### 备选清单（可选）
 
